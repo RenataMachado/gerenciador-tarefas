@@ -59,5 +59,5 @@ O navegador abre em `http://localhost:8501`.
 
 ## Integrantes
 
-- Nome — RM
-- Nome — RM
+- Renata Karoline Ruela Machado — RM575149
+  
