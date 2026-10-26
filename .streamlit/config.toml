@@ -1,0 +1,7 @@
+# Tema do app, inspirado na identidade visual da FIAP (preto + rosa)
+[theme]
+base = "dark"
+primaryColor = "#ED145B"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#161616"
+textColor = "#F5F5F5"

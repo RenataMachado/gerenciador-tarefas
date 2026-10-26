@@ -1,0 +1,8 @@
+# Tarefas salvas localmente (não precisam ir para o GitHub)
+dados/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+.venv/
+venv/
